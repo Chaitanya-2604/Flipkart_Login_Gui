@@ -26,4 +26,4 @@ This project demonstrates a basic user interface created with Tkinter, allowing 
 2. Tkinter (usually comes pre-installed with Python)
 
 # Screenshots
-![This is user interface]()
+![This is user interface](https://github.com/Chaitanya-2604/Flipkart_Login_Gui/blob/main/Gui_screenshots/Screenshot%202023-12-26%20152220.png)
