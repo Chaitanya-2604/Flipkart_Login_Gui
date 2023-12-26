@@ -34,3 +34,6 @@ This project demonstrates a basic user interface created with Tkinter, allowing 
 
 # Contributing
 Contributions are welcome! Feel free to fork the repository, make changes, and create a pull request.
+
+# Author
+[chaitanya] - https://github.com/Chaitanya-2604
